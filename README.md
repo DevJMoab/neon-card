@@ -21,7 +21,7 @@
 * Aplicação de alguns recursos de css, para criar um efeiro de borda em neon.<br><br><br>
 
 <p align="center">
-  <img alt="Neon Card" src="https://github.com/neon.png">
+  <img alt="Neon Card" src="https://github.com/DevJMoab/neon-card/blob/main/img/neon.png">
 </p>
 
 **Status:**
