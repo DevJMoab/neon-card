@@ -38,7 +38,7 @@
 
 Essas são as tecnologias utilizadas nesse projeto
 
-💻- [html], [css], 
+💻- HTML, CSS 
 
 ## 📝 License
 
